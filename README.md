@@ -1,1 +1,1 @@
-# This is a Cli based Number Guessing Game using Typescript
+This is a Cli based Number Guessing Game using Typescript
